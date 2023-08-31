@@ -4,7 +4,7 @@ server:
     namespace: argocd
     project: default
     source:
-      repoURL: https://github.com/umi0410/declarative-argocd.git
+      repoURL: https://github.com/mihyeNam/declarative-argocd.git
       targetRevision: HEAD
       path: getting-started/argocd
     destination:
